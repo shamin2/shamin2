@@ -13,7 +13,7 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 - **Bachelor of Science in Computer Science, Minor in Mathematics**
 - **Memorial University of Newfoundland**
-- **GPA:** 3.69 | **Average:** 81.1%
+- **GPA:** 3.73 | **Average:** 82%
 - **Awards:** IUGS Entrance Scholarship worth $12,000
 
 #### 🚀 Tech Stack
