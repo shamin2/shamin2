@@ -3,7 +3,7 @@
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusiast, studying Computer Science with a minor in Mathematics at Memorial University of Newfoundland. Dedicated to building scalable solutions, I am adept at creating web and software applications that enhance user experience and business processes.
+I'm a Full-Stack software Developer, as well as a Machine Learning Enthusiast, studying Computer Science with a minor in Mathematics at Memorial University of Newfoundland. Dedicated to building scalable solutions, I am adept at creating web and software applications that enhance user experience and business processes.
 
 ---
 
@@ -18,11 +18,11 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 #### 🚀 Tech Stack
 
-- **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, MATLAB, R
+- **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, R
 - **Frameworks/Libraries:** React.js, Flask, Flutter, Node.js, Express.js, TensorFlow
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
-- **Tools:** PyCharm, VS Code, Git, Jupyter, Eclipse, BlueJ, Anaconda, NumPy, TensorFlow, Jira, Postman
-- **Data Visualization:** PowerBI, Tableau, PowerPoint, Google Data Studio
+- **Tools:** PyCharm, VS Code, Git, Jupyter, Eclipse, BlueJ, Anaconda, NumPy, Pandas, TensorFlow, Jira, Postman
+- **Data Visualization:** PowerBI, Tableau, Matplotlib, Seaborn, PowerPoint, Google Data Studio
 
 #### 🔨 Key Projects
 
